@@ -5,8 +5,8 @@
 ## Bem vindo!
 
 <div style="display: flex;flex-wrap: wrap;flex-direction: column;align-content: space-between;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellima09&theme=blueberry&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima09&theme=blueberry&show_icons=true&langs_count=3&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriellima09&theme=blueberry&show_icons=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima09&theme=blueberry&show_icons=true&langs_count=3&layout=compact" />
 </div>
 
 ### Languages

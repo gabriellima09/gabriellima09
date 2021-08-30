@@ -4,10 +4,14 @@
 
 ## Bem vindo!
 
-<div style="display: flex;flex-wrap: wrap;flex-direction: column;align-content: space-between;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriellima09&theme=blueberry&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima09&theme=blueberry&show_icons=true&langs_count=3&layout=compact" />
-</div>
+<p align="center">
+  <a href="https://github.com/gabriellima09/github-readme-stats">
+    <img height="150rem" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellima09&theme=blueberry&show_icons=true" />
+  </a>
+  <a href="https://github.com/gabriellima09/github-readme-stats">
+    <img height="150rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima09&theme=blueberry&show_icons=true&langs_count=3&layout=compact" />
+  </a>
+</p>
 
 ### Languages
 <div style="display: inline-block">

@@ -5,7 +5,7 @@
 ## Hi, I'm Gabriel ... Welcome to my github! :slightly_smiling_face::raised_hands:
 
 <p>
-  :hammer: Currently working on <a href="https://github.com/gabriellima09/order-sheet">order-sheet</a>
+  :hammer: Currently working on <a href="https://github.com/gabriellima09/OrderSheet">OrderSheet</a>
 </p>
 
 <p align="center">

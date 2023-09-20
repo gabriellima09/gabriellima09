@@ -5,7 +5,7 @@
 # Hi, I'm Gabriel 
 Welcome to my GitHub! :slightly_smiling_face::raised_hands:
 
-:hammer: Currently working on <a href="https://github.com/g12-4soat/tech-lanches">tech-lanches</a>
+:hammer: Currently working on <a href="https://github.com/g12-4soat/tech-lanches" target="_blank">tech-lanches</a>
 
 ### Status
 <p align="center">

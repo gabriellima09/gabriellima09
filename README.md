@@ -5,7 +5,7 @@
 # Hi, I'm Gabriel 
 Welcome to my GitHub! :slightly_smiling_face::raised_hands:
 
-:hammer: Currently working on <a href="https://github.com/g12-4soat/tech-lanches" target="_blank">tech-lanches</a>
+:hammer: Currently working on <a href="https://github.com/gabriellima09/wines-mag-py" target="_blank">wines-mag-py</a>
 
 ### Status
 <p align="center">

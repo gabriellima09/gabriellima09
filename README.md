@@ -7,16 +7,6 @@ Welcome to my GitHub! :slightly_smiling_face::raised_hands:
 
 :hammer: Currently working on <a href="https://github.com/gabriellima09/wines-mag-py" target="_blank">wines-mag-py</a>
 
-### Status
-<p align="center">
-  <a href="https://github.com/gabriellima09/github-readme-stats">
-    <img height="150rem" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellima09&theme=blueberry&show_icons=true&hide=issues" />
-  </a>
-  <a href="https://github.com/gabriellima09/github-readme-stats">
-    <img height="150rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima09&theme=blueberry&show_icons=true&langs_count=4&layout=compact" />
-  </a>
-</p>
-
 ### My Expertises
 <div style="display: inline-block">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width:100%;" />
